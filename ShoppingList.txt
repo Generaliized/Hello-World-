@@ -11,3 +11,4 @@ Jam
 Cookies
 Milk
 Burger Buns
+Cereal
